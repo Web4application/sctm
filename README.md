@@ -1,10 +1,17 @@
 ---
-tittle: page
+tittle:page
+tittle: sctm
 layout: page
 author: serikiyakun
+💡: hint
+📘: hint
+^ panel: 📝 @AI🧠process
 ---
 
+``
 ⸻
+
+
 🌌 SCTM Interactive Demo – Visual Mockup
 
 ┌──────────────────────────────────────────────┐
