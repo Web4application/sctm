@@ -10,9 +10,8 @@ festures:
 
 
 
-```sctm
+```xlsl @sctm
 
-⸻
 
 🌌 SCTM Interactive Demo – Visual Mockup
 
