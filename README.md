@@ -540,11 +540,13 @@ Semantic Sandbox. 🌌
 
 	6.	CDN Integration
 	•	Dynamically pull reusable formulas, AI models, or visual assets:
-
+```
 Reference: [CDN://physics/newton/2nd_law]
 
+![image](https://github.com/user-attachments/assets/1d657960-4185-467e-b84d-aa9e132107ba)
 
 
+```
 ⸻
 
 2️⃣ Prototype Architecture
@@ -743,6 +745,7 @@ Reference: [CDN://physics/newton/2nd_law]
 
 ⸻
 
+```
 
-
+![image](https://github.com/user-attachments/assets/82f6890e-5873-4ef8-8fc5-6589217f8fb4)
 
