@@ -1,3 +1,9 @@
+---
+tittle: page
+layout: page
+author: serikiyakun
+---
+
 ⸻
 🌌 SCTM Interactive Demo – Visual Mockup
 
@@ -83,7 +89,7 @@ Legend:
 │ - Formula results                             │
 │ - Code execution output                        │
 │ - Semantic metadata JSON                       │
+
 └──────────────────────────────────────────────┘
-
 ⸻
-
+💡:
