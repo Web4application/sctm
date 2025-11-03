@@ -1,3 +1,4 @@
+
 ---
 	1.	Color-coded table with module scores (Iₙ, Rₜ, Sₘ)
 	2.	ASCII workflow diagram showing dependencies and prioritization
@@ -6,7 +7,7 @@
 This creates a full, self-contained SCTM project dashboard in Markdown.
 
     
-    ⸻
+⸻
 
 # Web4App Aura – SCTM Dashboard
 
@@ -52,15 +53,15 @@ Sₘ:59.5   Sₘ:36      Sₘ:72       Sₘ:39
 🔴 Teleportation Risk (Dependencies / Bottlenecks)
 |        |           |            |
 
-             |
-     🔷 XLSL Sheets
+             
+			 🔷 XLSL Sheets
 
 Iₙ:70
 Rₜ:0.35
 Sₘ:45.5
 [▇▇▇▇▇▇  ]
 
-             |
+ |
        📊 Prioritized Execution
 
 	•	Nodes (Sₘ=72) → High priority
