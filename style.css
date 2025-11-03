@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin:0; background:#f0f2f5; }
+.header { background:#1f2937; color:white; padding:10px; display:flex; justify-content:space-between; align-items:center; }
+.panels { display:flex; padding:10px; gap:10px; }
+.panel { background:white; border-radius:8px; padding:10px; flex:1; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+.input-panel textarea { width:100%; height:200px; font-family:monospace; }
+.console-panel { margin:10px; padding:10px; background:#111; color:#0f0; font-family:monospace; }
