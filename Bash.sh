@@ -6,3 +6,5 @@ git remote add origin https://github.com/web4application/sctm.git
 git push -u origin main
 
 echo "sctm_code_here" > sctm_code.py
+
+pip install fastapi uvicorn psycopg2-binary pydantic
