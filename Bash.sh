@@ -8,3 +8,6 @@ git push -u origin main
 echo "sctm_code_here" > sctm_code.py
 
 pip install fastapi uvicorn psycopg2-binary pydantic
+npx create-react-app frontend
+cd frontend
+npm install axios react-d3-tree
