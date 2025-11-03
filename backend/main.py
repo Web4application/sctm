@@ -96,3 +96,10 @@ def query_entities(entity_type: Optional[str] = None, attribute_key: Optional[st
     cursor.close()
     conn.close()
     return results
+
+DB_CONFIG = {
+    "host": "db",
+    "database": "sctm_db",
+    "user": "sctm_user",
+    "password": "sctm_pass"
+}
