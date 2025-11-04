@@ -1,12 +1,14 @@
 ---
-tittle:page
-layout:site
-features:
-author:kubu
+tittle: page
+layout: site
+features: 
+author: kubu
 ---
-
+<h>
+----
 <!-- Header -->
 <div class="header">
+    
     <div class="logo">SCTM-for-Life</div>
     <div class="domain-select">Domain: <select><option>Education</option></select></div>
     <div class="help">Help ?</div>
